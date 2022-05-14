@@ -103,7 +103,7 @@ a:hover {
     align-items: center;
     justify-content: space-between;
     border-radius: 0 08px 8px;
-    min-height: 150px;
+    min-height: 220px;
 
 }
 
@@ -135,6 +135,7 @@ a:hover {
 font-size:  12px;
 font-weight: 400;
 color: var(--text-light-gray);
+margin-bottom: 10px;
 
 }
 .dsmovie-btn,
